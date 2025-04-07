@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.6)  7 APR 2025 08:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.6)  7 APR 2025 09:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -811,115 +811,11 @@ LaTeX Info: Redefining \newblock on input line 591.
 LaTeX Info: Redefining \cite on input line 618.
 \ABCItoken=\toks32
 )
-Package color Info: Redefining color blue on input line 97.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\afterassignment' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@thanks' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\afterassignment' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@bs@thanks' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\afterassignment' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@thanks' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\afterassignment' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 114.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@bs@thanks' on input line 114.
-
-Package hyperref Info: Option `colorlinks' set `true' on input line 114.
+Package color Info: Redefining color blue on input line 95.
+Package hyperref Info: Option `colorlinks' set `true' on input line 112.
 \main@idxfile=\write4
 \openout4 = `main.idx'.
+
 
 Writing index file main.idx 
 
@@ -948,25 +844,25 @@ Package babel Info: 'brazil' activates 'portuges' shorthands.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-Package hyperref Info: Link coloring ON on input line 148.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+Package hyperref Info: Link coloring ON on input line 146.
 \myptabbox=\box61
 \myptabboxwidth=\skip264
 
@@ -995,20 +891,20 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \microtypecontext on input line 148.
-Package microtype Info: Applying patch `item' on input line 148.
-Package microtype Info: Applying patch `toc' on input line 148.
-Package microtype Info: Applying patch `eqnum' on input line 148.
-Package microtype Info: Applying patch `footnote' on input line 148.
-Package microtype Info: Applying patch `verbatim' on input line 148.
-LaTeX Info: Redefining \microtypesetup on input line 148.
+LaTeX Info: Redefining \microtypecontext on input line 146.
+Package microtype Info: Applying patch `item' on input line 146.
+Package microtype Info: Applying patch `toc' on input line 146.
+Package microtype Info: Applying patch `eqnum' on input line 146.
+Package microtype Info: Applying patch `footnote' on input line 146.
+Package microtype Info: Applying patch `verbatim' on input line 146.
+LaTeX Info: Redefining \microtypesetup on input line 146.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 148.
+LaTeX Info: Redefining \showhyphens on input line 146.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1018,7 +914,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
-50.
+48.
 
 (C:\Users\joaov\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1039,7 +935,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.153 
+l.151 
        [1
 
 
@@ -1048,7 +944,7 @@ l.153
 ! Undefined control sequence.
 <recently read> \theforeigntitle 
                                  
-l.170 
+l.168 
       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1057,78 +953,72 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-70.
+68.
 (C:\Users\joaov\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-70.
+68.
 
 (C:\Users\joaov\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-170.
+168.
 
 (C:\Users\joaov\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-170.
+168.
 
 (C:\Users\joaov\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 170.
+(Font)              <12> on input line 168.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 170.
+(Font)              <8> on input line 168.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 170.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-70.
-
-(C:\Users\joaov\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 170.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 170.
+(Font)              <6> on input line 168.
 
 
-LaTeX Warning: Citation `abntex2classe' on page 2 undefined on input line 210.
+LaTeX Warning: Citation `abntex2classe' on page 2 undefined on input line 208.
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 213.
+(Font)              <10.95> on input line 211.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 215.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 215.
 
 LaTeX Warning: Citation `abntex2-wiki-como-customizar' on page 2 undefined on i
-nput line 223.
+nput line 221.
+
+
+LaTeX Warning: Citation `abntex2classe' on page 2 undefined on input line 225.
+
+
+LaTeX Warning: Citation `abntex2cite' on page 2 undefined on input line 226.
+
+
+LaTeX Warning: Citation `abntex2cite-alf' on page 2 undefined on input line 226
+.
+
+
+LaTeX Warning: Citation `memoir' on page 2 undefined on input line 227.
+
+
+LaTeX Warning: Citation `abntex2modelo' on page 2 undefined on input line 227.
 
 
 
 [2
 
-{C:/Users/joaov/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
-
-LaTeX Warning: Citation `abntex2classe' on page 3 undefined on input line 227.
-
-
-LaTeX Warning: Citation `abntex2cite' on page 3 undefined on input line 228.
-
-
-LaTeX Warning: Citation `abntex2cite-alf' on page 3 undefined on input line 228
-.
-
-
-LaTeX Warning: Citation `memoir' on page 3 undefined on input line 229.
-
-
-LaTeX Warning: Citation `abntex2modelo' on page 3 undefined on input line 229.
-
+]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
-43.
-(C:\Users\joaov\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+41.
+ (C:\Users\joaov\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1141,13 +1031,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 [4]
 
-LaTeX Warning: Citation `memoir' on page 5 undefined on input line 353.
+LaTeX Warning: Citation `memoir' on page 5 undefined on input line 351.
 
 
-LaTeX Warning: Citation `abntex2modelo' on page 5 undefined on input line 363.
+LaTeX Warning: Citation `abntex2modelo' on page 5 undefined on input line 361.
 
 
-LaTeX Warning: Citation `abntex2classe' on page 5 undefined on input line 367.
+LaTeX Warning: Citation `abntex2classe' on page 5 undefined on input line 365.
 
 
 
@@ -1157,7 +1047,7 @@ LaTeX Warning: Citation `abntex2classe' on page 5 undefined on input line 367.
 ! Undefined control sequence.
 <recently read> \theforeigntitle 
                                  
-l.405 
+l.403 
       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1181,13 +1071,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 19197 strings out of 473522
- 320629 string characters out of 5714610
- 914319 words of memory out of 5000000
- 41959 multiletter control sequences out of 15000+600000
- 644529 words of font info for 156 fonts, out of 8000000 for 9000
+ 19146 strings out of 473522
+ 319549 string characters out of 5714610
+ 913757 words of memory out of 5000000
+ 41922 multiletter control sequences out of 15000+600000
+ 643508 words of font info for 150 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 110i,11n,107p,1583b,694s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,11n,107p,1583b,696s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/joaov/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pf
 b><C:/Users/joaov/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
 ><C:/Users/joaov/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
@@ -1201,9 +1091,9 @@ rs/joaov/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Use
 rs/joaov/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/U
 sers/joaov/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/U
 sers/joaov/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (9 pages, 358580 bytes).
+Output written on main.pdf (9 pages, 340368 bytes).
 PDF statistics:
- 189 PDF objects out of 1000 (max. 8388607)
+ 180 PDF objects out of 1000 (max. 8388607)
  28 named destinations out of 1000 (max. 500000)
- 54385 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 50289 words of extra memory for PDF output out of 51595 (max. 10000000)
 
