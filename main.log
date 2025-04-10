@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.6)  7 APR 2025 09:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.6)  10 APR 2025 12:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1073,7 +1073,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  19146 strings out of 473522
  319549 string characters out of 5714610
- 913757 words of memory out of 5000000
+ 913795 words of memory out of 5000000
  41922 multiletter control sequences out of 15000+600000
  643508 words of font info for 150 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1091,7 +1091,7 @@ rs/joaov/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Use
 rs/joaov/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/U
 sers/joaov/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/U
 sers/joaov/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (9 pages, 340368 bytes).
+Output written on main.pdf (9 pages, 341145 bytes).
 PDF statistics:
  180 PDF objects out of 1000 (max. 8388607)
  28 named destinations out of 1000 (max. 500000)
